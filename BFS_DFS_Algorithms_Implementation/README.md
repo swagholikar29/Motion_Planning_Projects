@@ -1,4 +1,4 @@
-# RBE 550 - Basic Search Algorithms Implementation
+# RBE 550 - BFS and DFS Algorithms Implementation
 
 ## Overview
 

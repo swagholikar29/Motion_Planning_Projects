@@ -1,4 +1,4 @@
-# RBE 550 - Basic Search Algorithms Implementation
+# RBE 550 - Dijkstra and A-star Algorithms Implementation
 
 ## Overview
 
